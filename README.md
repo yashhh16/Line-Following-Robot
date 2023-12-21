@@ -1,7 +1,5 @@
 # Line-Following-Robot
 
-# Line Following Robot
-
 This project is about building a line following robot using Arduino and IR sensors. The robot can detect and follow a black line on a white surface, or vice versa, by adjusting the speed and direction of its motors.
 
 ## Project Architecture
